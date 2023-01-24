@@ -1,0 +1,5 @@
+the quantity and cost of products is:
+10 40
+8 50
+37 60
+the amount that you need to pay is:  3020
